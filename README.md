@@ -1,5 +1,6 @@
 # C++游戏开发
 ## 基于directX的游戏开发
+> from Beginning game programming 《游戏编程入门》
 - Demo 1 学习界面弹窗
 - Demo 2 利用windows.h在windows上编辑文字
 - Demo 2-2 window上载入图片
