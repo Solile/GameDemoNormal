@@ -1,17 +1,17 @@
 # C++游戏开发
 ## 基于directX的游戏开发
-## Demo 1 学习界面弹窗
-## Demo 2 利用windows.h在windows上编辑文字
-## Demo 2-2 window上载入图片
-## Demo 3 全屏蓝色警告（x
-## Demo 4 用directX 展示图片
-## Demo 5 **桶接子弹游戏(幼儿版)*
-## Demo 6 烟花动画演示
-## Demo 7 随机展示一幅图片中的部分，并缩放显示
-## Demo 8 **火箭移动躲避陨石游戏*
+- Demo 1 学习界面弹窗
+- Demo 2 利用windows.h在windows上编辑文字
+- Demo 2-2 window上载入图片
+- Demo 3 全屏蓝色警告（x
+- Demo 4 用directX 展示图片
+- Demo 5 **桶接子弹游戏(幼儿版)*
+- Demo 6 烟花动画演示
+- Demo 7 随机展示一幅图片中的部分，并缩放显示
+- Demo 8 **火箭移动躲避陨石游戏*
     - 帧序列出现问题
-## Demo 9 在windows上显示文字
-## 之后的项目由于找不到Direct的相关头文件项目被迫中止（但是代码存在）
+- Demo 9 在windows上显示文字
+- 之后的项目由于找不到Direct的相关头文件项目被迫中止（但是代码存在）
 
 ## Project 1
 > from Beginning C++ Through Game programming 《C++游戏编程入门》
